@@ -39,7 +39,6 @@ The dashboard is designed to answer critical business questions, focusing on the
 * `HR Analytics Dashboard ss.png`: A screenshot of the final dashboard for quick viewing.
 * `README.md`: This file.
 
-*(If you have a data file, you should list it here, e.g., `HR_Employee_Data.csv`)*
 
 ---
 
@@ -57,14 +56,7 @@ To interact with the dashboard, you will need **Microsoft Power BI Desktop** ins
 3.  **Load Data (If Applicable):**
     * If the data source is local (e.g., a CSV file you haven't included), Power BI will prompt you to connect to the source file.
 
-## 📺 Source of Learning
 
-This project was developed as a hands-on exercise following an end-to-end Power BI tutorial. My approach was to replicate the core analysis and then customize the design and insights.
-
-* **Video Tutorial:** **Power BI Project End to End | Dashboard | Beginners | Complete Project - 2023** by Rishabh Mishra
-* **Video Link:** [https://youtu.be/j4xlVLgsmNQ](https://youtu.be/j4xlVLgsmNQ?si=gMOsBorkN9HfdCD8)
-
----
 
 ## 🧑‍💻 Author
 
